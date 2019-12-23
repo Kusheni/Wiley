@@ -20,9 +20,7 @@ class TestHello(unittest.TestCase):
         test2=HelloClass()
         assert (test2.saybye()==True)
 
-    def test_count(self):
-        test3=HelloClass()
-        assert(test3.count()==True)
+
 
 if __name__ == '__main__':
     unittest.main()
