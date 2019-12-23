@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1039b25-b65d-4246-9858-43c567e199b4" name="Default Changelist" comment="" />
+    <list default="true" id="a1039b25-b65d-4246-9858-43c567e199b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_hello.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V6IhCjpDfYZVLJ8vXNl7XKFAbE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,7 +24,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for test_hello.TestHello.test_saybye">
+    <configuration name="Unittests for test_hello.TestHello.test_saybye" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_hello.TestHello.test_saybye&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in test_hello.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -33,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_hello.TestHello.test_saybye" />
         <item itemvalue="Python tests.Unittests in test_hello.py" />
       </list>
     </recent_temporary>
@@ -63,21 +86,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="163" key="GridCell.Tab.0.bottom" timestamp="1576568156461">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1576825219327">
+      <screen x="1920" y="0" width="1280" height="693" />
     </state>
     <state width="1899" height="163" key="GridCell.Tab.0.bottom/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576568156461" />
-    <state width="1899" height="163" key="GridCell.Tab.0.center" timestamp="1576568156460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576825219327" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1576825219326">
+      <screen x="1920" y="0" width="1280" height="693" />
     </state>
     <state width="1899" height="163" key="GridCell.Tab.0.center/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576568156460" />
-    <state width="1899" height="163" key="GridCell.Tab.0.left" timestamp="1576568156459">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576825219326" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1576825219325">
+      <screen x="1920" y="0" width="1280" height="693" />
     </state>
     <state width="1899" height="163" key="GridCell.Tab.0.left/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576568156459" />
-    <state width="1899" height="163" key="GridCell.Tab.0.right" timestamp="1576568156460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576825219325" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1576825219326">
+      <screen x="1920" y="0" width="1280" height="693" />
     </state>
     <state width="1899" height="163" key="GridCell.Tab.0.right/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576568156460" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576825219326" />
+    <state x="2257" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576824654803">
+      <screen x="1920" y="0" width="1280" height="693" />
+    </state>
+    <state x="2257" y="164" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576824654803" />
   </component>
 </project>

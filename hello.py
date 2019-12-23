@@ -9,3 +9,19 @@ class HelloClass:
     def sayhello(self):
         print("Hello World")
         return True
+
+    def saybye(self):
+        print("Bye")
+        return True
+
+
+    def mango(self):
+        print("Bye")
+        return True
+
+    def count(self):
+        count=0
+        while(count<3):
+            count=count+1
+            print("New Test")
+            return True
