@@ -21,6 +21,9 @@ class TestHello(unittest.TestCase):
         assert (test2.saybye()==True)
 
 
+    def test2_saybye(self):
+       test2=HelloClass()
+       assert (test2.saybye()==True)
 
 if __name__ == '__main__':
     unittest.main()
