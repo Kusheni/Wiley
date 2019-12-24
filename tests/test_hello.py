@@ -24,6 +24,9 @@ class TestHello(unittest.TestCase):
        test2=HelloClass()
        assert (test2.saybye()==True)
 
+    def test3_mango(self):
+        test3=HelloClass()
+        assert (test3.mango()==True)
 
 
 
