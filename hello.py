@@ -17,10 +17,14 @@ class HelloClass:
 
 
     def mango(self):
-        a=10
-        a=+5
-        print(a)
+        a=8
+        if a=10:
+            print("not grteater than")
+        elif a==10:
+            a=+5
+            print(a)
         return True
+
 
     def count(self):
         count=0
