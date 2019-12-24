@@ -24,10 +24,7 @@ class TestHello(unittest.TestCase):
        test2=HelloClass()
        assert (test2.saybye()==True)
 
-    def test3_mango(self):
-        test3=HelloClass()
-        assert (test3.saybye() == True)
-        print(y)
+
 
 if __name__ == '__main__':
     unittest.main()
