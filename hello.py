@@ -17,7 +17,9 @@ class HelloClass:
 
 
     def mango(self):
-        print(y)
+        a=10
+        a+=5
+        print(a)
         return True
 
     def count(self):
