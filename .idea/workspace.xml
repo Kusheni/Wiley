@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a1039b25-b65d-4246-9858-43c567e199b4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,10 +106,11 @@
     </state>
     <state width="1899" height="163" key="GridCell.Tab.0.right/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576568156460" />
     <state width="1259" height="163" key="GridCell.Tab.0.right/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576825219326" />
-    <state x="337" y="161" key="com.intellij.ide.util.TipDialog" timestamp="1577113308602">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="506" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1577160490474">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="161" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577113308602" />
+    <state x="506" y="246" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1577160490474" />
     <state x="2257" y="164" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/3840.0.1920.1040/0.0.1920.1040@1920.0.1280.693" timestamp="1576824654803" />
   </component>
 </project>

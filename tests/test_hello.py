@@ -20,7 +20,6 @@ class TestHello(unittest.TestCase):
         test2=HelloClass()
         assert (test2.saybye()==True)
 
-
     def test2_saybye(self):
        test2=HelloClass()
        assert (test2.saybye()==True)
