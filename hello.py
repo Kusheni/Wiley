@@ -18,7 +18,7 @@ class HelloClass:
 
     def mango(self):
         a=8
-        if a=10:
+        if a==10:
             print("not grteater than")
         elif a==10:
             a=+5
